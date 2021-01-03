@@ -192,5 +192,5 @@ def main():
     #     print("X=%s, Predicted=%s, Ground=%s" % (dict_encoder.inverse_transform([xval[i]])[0], label_encoder.inverse_transform([ynew[i]]), label_encoder.inverse_transform([yval[i]])))
 
 
-
+main()
 
